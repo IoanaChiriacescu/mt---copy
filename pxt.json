@@ -1,10 +1,11 @@
 {
-    "name": "mt - Copy",
+    "name": "Minisera-tutorial",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-kitronik-smart-greenhouse": "github:kitronikltd/pxt-kitronik-smart-greenhouse#v1.3.9"
     },
     "files": [
         "main.blocks",
